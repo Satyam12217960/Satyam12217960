@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Satyam Raj</h1>
-<h3 align="center">Aiming for Data Analyst.</h3>
+<h3 align="center">Aiming to be a Data Analyst.</h3>
 <img align="right" height= "250" width="300" src= "https://i.pinimg.com/originals/79/9e/0d/799e0d7779f6ea6c3a89885ff60c55af.gif">
 
 - 📫 How to reach me **satyamraj86978@gamil.com**
